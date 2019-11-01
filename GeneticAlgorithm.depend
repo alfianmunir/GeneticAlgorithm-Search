@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1569754530 source:d:\1. kuliah\semester 3\kecerdasan buatan\geneticalgorithm\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<cstdlib>
+	<time.h>
+	<stdio.h>
+
